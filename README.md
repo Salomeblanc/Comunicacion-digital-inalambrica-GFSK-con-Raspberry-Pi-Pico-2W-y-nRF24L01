@@ -63,7 +63,7 @@ parte 4.4/   Análisis de espectro
   (7 fotos)                 Analizador de espectros, montaje, frecuencia, ancho de banda y espectrograma
 ```
 
-> Las tres copias de `nrf24 (3).py` son idénticas. Al copiarlas a la Pico, guárdalas con el nombre `nrf24.py`, porque así lo importan los programas (`from nrf24 import ...`).
+
 
 ## Cómo ejecutar
 
